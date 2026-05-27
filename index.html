@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>IGEL London Weather Dashboard</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="dashboard" id="dashboard" aria-live="polite">
+    <header class="topbar"><div class="brand-lockup"><img src="assets/igel-logo-yellow.png" alt="IGEL" class="logo"><div><p class="eyebrow">Live London Weather</p><h1 id="title">IGEL Now and Next Workspace and Security Summit</h1></div></div><div class="status-pill" id="statusPill"><span>Loading</span><strong id="updatedAt">--:--</strong></div></header>
+    <section class="grid"><article class="hero panel"><div><p class="location" id="location">London, UK</p><div class="temperature-row"><span class="temperature" id="temperature">--°</span><div><h2 id="condition">Loading weather</h2><p id="summary">Waiting for the first published Node-RED update.</p></div></div><div class="mini-facts" id="miniFacts"></div></div><div class="weather-art" id="weatherArt"></div></article><section class="metrics panel" id="metrics"></section><section class="chart panel"><div class="section-head"><h3>Next 24 hours</h3><span>temperature and rain probability</span></div><div id="chart" class="chart-wrap"></div></section><section class="outlook panel"><div class="section-head"><h3>Three-day outlook</h3><span>London forecast</span></div><div id="daily"></div></section><section class="facts panel"><div class="section-head"><h3>Weather intelligence</h3><span>processed in Node-RED</span></div><ul id="facts"></ul></section></section>
+  </main>
+  <script>window.IGEL_WEATHER_DATA_URL = window.IGEL_WEATHER_DATA_URL || '../data/weather-latest.json';</script>
+  <script src="app.js"></script>
+</body>
+</html>
