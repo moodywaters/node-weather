@@ -2,36 +2,36 @@
   "status": "ok",
   "title": "IGEL Now and Next Workspace and Security Summit",
   "location": "London, UK",
-  "generatedAt": "2026-05-28T11:28:25.322Z",
-  "updatedLabel": "12:28:25",
+  "generatedAt": "2026-05-28T11:33:25.333Z",
+  "updatedLabel": "12:33:25",
   "source": "Open-Meteo",
   "current": {
-    "condition": "Clear sky",
+    "condition": "Mainly clear",
     "family": "Clear",
     "mood": "calm",
-    "code": 0,
-    "temp": 28.9,
-    "feels": 30.3,
-    "humidity": 40,
+    "code": 1,
+    "temp": 29.3,
+    "feels": 30.6,
+    "humidity": 39,
     "wind": 12,
     "windDirection": "S",
-    "gusts": 28,
+    "gusts": 29,
     "pressure": 1021,
     "rain": 0,
-    "cloud": 17,
+    "cloud": 47,
     "uv": 5.3,
     "isDay": true
   },
   "metrics": [
     {
       "label": "Feels like",
-      "value": 30.3,
+      "value": 30.6,
       "unit": "°C",
       "tone": "yellow"
     },
     {
       "label": "Humidity",
-      "value": 40,
+      "value": 39,
       "unit": "%",
       "tone": "neutral"
     },
@@ -43,7 +43,7 @@
     },
     {
       "label": "Gusts",
-      "value": 28,
+      "value": 29,
       "unit": "km/h",
       "tone": "neutral"
     },
@@ -61,7 +61,7 @@
     },
     {
       "label": "Cloud",
-      "value": 17,
+      "value": 47,
       "unit": "%",
       "tone": "neutral"
     },
@@ -425,7 +425,7 @@
     }
   ],
   "facts": [
-    "Now: clear sky with 17% cloud cover over London.",
+    "Now: mainly clear with 47% cloud cover over London.",
     "Rain probability stays below 30% through the next 24 hours.",
     "Daylight window today: 04:52 - 21:03.",
     "Peak forecast wind in the next 24 hours: 16 km/h around 19:00.",
