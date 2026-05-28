@@ -2,48 +2,48 @@
   "status": "ok",
   "title": "IGEL Now and Next Workspace and Security Summit",
   "location": "London, UK",
-  "generatedAt": "2026-05-28T10:43:25.312Z",
-  "updatedLabel": "11:43:25",
+  "generatedAt": "2026-05-28T10:48:25.298Z",
+  "updatedLabel": "11:48:25",
   "source": "Open-Meteo",
   "current": {
     "condition": "Clear sky",
     "family": "Clear",
     "mood": "calm",
     "code": 0,
-    "temp": 27.3,
-    "feels": 28,
-    "humidity": 44,
+    "temp": 27.9,
+    "feels": 28.7,
+    "humidity": 43,
     "wind": 13,
-    "windDirection": "SE",
-    "gusts": 30,
+    "windDirection": "SSE",
+    "gusts": 31,
     "pressure": 1021,
     "rain": 0,
     "cloud": 0,
-    "uv": 4.5,
+    "uv": 5.3,
     "isDay": true
   },
   "metrics": [
     {
       "label": "Feels like",
-      "value": 28,
+      "value": 28.7,
       "unit": "°C",
       "tone": "yellow"
     },
     {
       "label": "Humidity",
-      "value": 44,
+      "value": 43,
       "unit": "%",
       "tone": "neutral"
     },
     {
       "label": "Wind",
       "value": 13,
-      "unit": "km/h SE",
+      "unit": "km/h SSE",
       "tone": "blue"
     },
     {
       "label": "Gusts",
-      "value": 30,
+      "value": 31,
       "unit": "km/h",
       "tone": "neutral"
     },
@@ -67,25 +67,12 @@
     },
     {
       "label": "UV index",
-      "value": 4.5,
+      "value": 5.3,
       "unit": "",
       "tone": "yellow"
     }
   ],
   "hourly": [
-    {
-      "time": "2026-05-28T11:00",
-      "label": "11:00",
-      "temp": 25.8,
-      "rainChance": 0,
-      "humidity": 48,
-      "wind": 13,
-      "uv": 4.5,
-      "code": 0,
-      "condition": "Clear sky",
-      "family": "Clear",
-      "isDay": true
-    },
     {
       "time": "2026-05-28T12:00",
       "label": "12:00",
@@ -382,6 +369,19 @@
       "uv": 3,
       "code": 2,
       "condition": "Partly cloudy",
+      "family": "Clouds",
+      "isDay": true
+    },
+    {
+      "time": "2026-05-29T11:00",
+      "label": "11:00",
+      "temp": 22.5,
+      "rainChance": 0,
+      "humidity": 43,
+      "wind": 8,
+      "uv": 2.9,
+      "code": 3,
+      "condition": "Overcast",
       "family": "Clouds",
       "isDay": true
     }
