@@ -2,48 +2,48 @@
   "status": "ok",
   "title": "IGEL Now and Next Workspace and Security Summit",
   "location": "London, UK",
-  "generatedAt": "2026-05-28T08:28:25.119Z",
-  "updatedLabel": "09:28:25",
+  "generatedAt": "2026-05-28T08:33:25.116Z",
+  "updatedLabel": "09:33:25",
   "source": "Open-Meteo",
   "current": {
     "condition": "Clear sky",
     "family": "Clear",
     "mood": "calm",
     "code": 0,
-    "temp": 21.2,
-    "feels": 20.3,
-    "humidity": 62,
+    "temp": 21.9,
+    "feels": 21.3,
+    "humidity": 60,
     "wind": 14,
-    "windDirection": "E",
-    "gusts": 32,
+    "windDirection": "ESE",
+    "gusts": 31,
     "pressure": 1022,
     "rain": 0,
-    "cloud": 18,
+    "cloud": 11,
     "uv": 1.8,
     "isDay": true
   },
   "metrics": [
     {
       "label": "Feels like",
-      "value": 20.3,
+      "value": 21.3,
       "unit": "°C",
       "tone": "yellow"
     },
     {
       "label": "Humidity",
-      "value": 62,
+      "value": 60,
       "unit": "%",
       "tone": "neutral"
     },
     {
       "label": "Wind",
       "value": 14,
-      "unit": "km/h E",
+      "unit": "km/h ESE",
       "tone": "blue"
     },
     {
       "label": "Gusts",
-      "value": 32,
+      "value": 31,
       "unit": "km/h",
       "tone": "neutral"
     },
@@ -61,7 +61,7 @@
     },
     {
       "label": "Cloud",
-      "value": 18,
+      "value": 11,
       "unit": "%",
       "tone": "neutral"
     },
@@ -416,7 +416,7 @@
       "day": "Sat",
       "condition": "Overcast",
       "family": "Clouds",
-      "high": 25.7,
+      "high": 25.1,
       "low": 17.5,
       "rainChance": 4,
       "sunrise": "04:50",
@@ -425,7 +425,7 @@
     }
   ],
   "facts": [
-    "Now: clear sky with 18% cloud cover over London.",
+    "Now: clear sky with 11% cloud cover over London.",
     "Rain probability stays below 30% through the next 24 hours.",
     "Daylight window today: 04:52 - 21:03.",
     "Peak forecast wind in the next 24 hours: 17 km/h around 15:00.",
