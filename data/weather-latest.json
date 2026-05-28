@@ -2,36 +2,36 @@
   "status": "ok",
   "title": "IGEL Now and Next Workspace and Security Summit",
   "location": "London, UK",
-  "generatedAt": "2026-05-28T11:58:25.350Z",
-  "updatedLabel": "12:58:25",
+  "generatedAt": "2026-05-28T12:03:25.391Z",
+  "updatedLabel": "13:03:25",
   "source": "Open-Meteo",
   "current": {
-    "condition": "Partly cloudy",
+    "condition": "Overcast",
     "family": "Clouds",
     "mood": "settled",
-    "code": 2,
-    "temp": 29.6,
-    "feels": 30.5,
-    "humidity": 38,
+    "code": 3,
+    "temp": 29.9,
+    "feels": 30.1,
+    "humidity": 37,
     "wind": 12,
     "windDirection": "S",
     "gusts": 29,
     "pressure": 1021,
     "rain": 0,
-    "cloud": 79,
+    "cloud": 100,
     "uv": 5.5,
     "isDay": true
   },
   "metrics": [
     {
       "label": "Feels like",
-      "value": 30.5,
+      "value": 30.1,
       "unit": "°C",
       "tone": "yellow"
     },
     {
       "label": "Humidity",
-      "value": 38,
+      "value": 37,
       "unit": "%",
       "tone": "neutral"
     },
@@ -61,7 +61,7 @@
     },
     {
       "label": "Cloud",
-      "value": 79,
+      "value": 100,
       "unit": "%",
       "tone": "neutral"
     },
@@ -425,7 +425,7 @@
     }
   ],
   "facts": [
-    "Now: partly cloudy with 79% cloud cover over London.",
+    "Now: overcast with 100% cloud cover over London.",
     "Rain probability stays below 30% through the next 24 hours.",
     "Daylight window today: 04:52 - 21:03.",
     "Peak forecast wind in the next 24 hours: 16 km/h around 19:00.",
