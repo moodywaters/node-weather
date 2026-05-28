@@ -2,48 +2,48 @@
   "status": "ok",
   "title": "IGEL Now and Next Workspace and Security Summit",
   "location": "London, UK",
-  "generatedAt": "2026-05-28T08:43:25.124Z",
-  "updatedLabel": "09:43:25",
+  "generatedAt": "2026-05-28T08:48:25.163Z",
+  "updatedLabel": "09:48:25",
   "source": "Open-Meteo",
   "current": {
     "condition": "Clear sky",
     "family": "Clear",
     "mood": "calm",
     "code": 0,
-    "temp": 21.9,
-    "feels": 21.3,
-    "humidity": 60,
-    "wind": 14,
+    "temp": 22.7,
+    "feels": 22.5,
+    "humidity": 58,
+    "wind": 13,
     "windDirection": "ESE",
-    "gusts": 31,
+    "gusts": 30,
     "pressure": 1022,
     "rain": 0,
-    "cloud": 11,
-    "uv": 1.8,
+    "cloud": 5,
+    "uv": 3.3,
     "isDay": true
   },
   "metrics": [
     {
       "label": "Feels like",
-      "value": 21.3,
+      "value": 22.5,
       "unit": "°C",
       "tone": "yellow"
     },
     {
       "label": "Humidity",
-      "value": 60,
+      "value": 58,
       "unit": "%",
       "tone": "neutral"
     },
     {
       "label": "Wind",
-      "value": 14,
+      "value": 13,
       "unit": "km/h ESE",
       "tone": "blue"
     },
     {
       "label": "Gusts",
-      "value": 31,
+      "value": 30,
       "unit": "km/h",
       "tone": "neutral"
     },
@@ -61,31 +61,18 @@
     },
     {
       "label": "Cloud",
-      "value": 11,
+      "value": 5,
       "unit": "%",
       "tone": "neutral"
     },
     {
       "label": "UV index",
-      "value": 1.8,
+      "value": 3.3,
       "unit": "",
       "tone": "yellow"
     }
   ],
   "hourly": [
-    {
-      "time": "2026-05-28T09:00",
-      "label": "09:00",
-      "temp": 20.5,
-      "rainChance": 3,
-      "humidity": 64,
-      "wind": 15,
-      "uv": 1.8,
-      "code": 1,
-      "condition": "Mainly clear",
-      "family": "Clear",
-      "isDay": true
-    },
     {
       "time": "2026-05-28T10:00",
       "label": "10:00",
@@ -384,6 +371,19 @@
       "condition": "Overcast",
       "family": "Clouds",
       "isDay": true
+    },
+    {
+      "time": "2026-05-29T09:00",
+      "label": "09:00",
+      "temp": 19.6,
+      "rainChance": 0,
+      "humidity": 55,
+      "wind": 8,
+      "uv": 1.8,
+      "code": 3,
+      "condition": "Overcast",
+      "family": "Clouds",
+      "isDay": true
     }
   ],
   "daily": [
@@ -425,7 +425,7 @@
     }
   ],
   "facts": [
-    "Now: clear sky with 11% cloud cover over London.",
+    "Now: clear sky with 5% cloud cover over London.",
     "Rain probability stays below 30% through the next 24 hours.",
     "Daylight window today: 04:52 - 21:03.",
     "Peak forecast wind in the next 24 hours: 17 km/h around 15:00.",
