@@ -2,14 +2,14 @@
   "status": "ok",
   "title": "IGEL Now and Next Workspace and Security Summit",
   "location": "London, UK",
-  "generatedAt": "2026-05-28T08:00:52.596Z",
-  "updatedLabel": "09:00:52",
+  "generatedAt": "2026-05-28T08:01:44.127Z",
+  "updatedLabel": "09:01:44",
   "source": "Open-Meteo",
   "current": {
-    "condition": "Clear sky",
+    "condition": "Mainly clear",
     "family": "Clear",
     "mood": "calm",
-    "code": 0,
+    "code": 1,
     "temp": 20.2,
     "feels": 18.9,
     "humidity": 64,
@@ -18,7 +18,7 @@
     "gusts": 35,
     "pressure": 1022,
     "rain": 0,
-    "cloud": 0,
+    "cloud": 23,
     "uv": 1.9,
     "isDay": true
   },
@@ -61,7 +61,7 @@
     },
     {
       "label": "Cloud",
-      "value": 0,
+      "value": 23,
       "unit": "%",
       "tone": "neutral"
     },
@@ -81,8 +81,8 @@
       "humidity": 64,
       "wind": 16,
       "uv": 1.9,
-      "code": 0,
-      "condition": "Clear sky",
+      "code": 1,
+      "condition": "Mainly clear",
       "family": "Clear",
       "isDay": true
     },
@@ -198,9 +198,9 @@
       "humidity": 34,
       "wind": 13,
       "uv": 0.7,
-      "code": 0,
-      "condition": "Clear sky",
-      "family": "Clear",
+      "code": 2,
+      "condition": "Partly cloudy",
+      "family": "Clouds",
       "isDay": true
     },
     {
@@ -211,9 +211,9 @@
       "humidity": 32,
       "wind": 14,
       "uv": 0.2,
-      "code": 2,
-      "condition": "Partly cloudy",
-      "family": "Clouds",
+      "code": 0,
+      "condition": "Clear sky",
+      "family": "Clear",
       "isDay": true
     },
     {
@@ -237,9 +237,9 @@
       "humidity": 43,
       "wind": 13,
       "uv": 0,
-      "code": 0,
-      "condition": "Clear sky",
-      "family": "Clear",
+      "code": 3,
+      "condition": "Overcast",
+      "family": "Clouds",
       "isDay": true
     },
     {
@@ -328,9 +328,9 @@
       "humidity": 65,
       "wind": 9,
       "uv": 0,
-      "code": 2,
-      "condition": "Partly cloudy",
-      "family": "Clouds",
+      "code": 0,
+      "condition": "Clear sky",
+      "family": "Clear",
       "isDay": false
     },
     {
@@ -354,9 +354,9 @@
       "humidity": 66,
       "wind": 8,
       "uv": 0,
-      "code": 2,
-      "condition": "Partly cloudy",
-      "family": "Clouds",
+      "code": 0,
+      "condition": "Clear sky",
+      "family": "Clear",
       "isDay": true
     },
     {
@@ -425,7 +425,7 @@
     }
   ],
   "facts": [
-    "Now: clear sky with 0% cloud cover over London.",
+    "Now: mainly clear with 23% cloud cover over London.",
     "Rain probability stays below 30% through the next 24 hours.",
     "Daylight window today: 04:52 - 21:03.",
     "Peak forecast wind in the next 24 hours: 16 km/h around 09:00.",
