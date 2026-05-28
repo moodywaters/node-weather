@@ -2,23 +2,23 @@
   "status": "ok",
   "title": "IGEL Now and Next Workspace and Security Summit",
   "location": "London, UK",
-  "generatedAt": "2026-05-28T12:23:25.358Z",
-  "updatedLabel": "13:23:25",
+  "generatedAt": "2026-05-28T12:28:25.362Z",
+  "updatedLabel": "13:28:25",
   "source": "Open-Meteo",
   "current": {
-    "condition": "Overcast",
-    "family": "Clouds",
-    "mood": "settled",
-    "code": 3,
+    "condition": "Clear sky",
+    "family": "Clear",
+    "mood": "calm",
+    "code": 0,
     "temp": 30.2,
     "feels": 29.6,
     "humidity": 36,
     "wind": 12,
     "windDirection": "S",
     "gusts": 28,
-    "pressure": 1021,
+    "pressure": 1020,
     "rain": 0,
-    "cloud": 100,
+    "cloud": 18,
     "uv": 5.5,
     "isDay": true
   },
@@ -55,13 +55,13 @@
     },
     {
       "label": "Pressure",
-      "value": 1021,
+      "value": 1020,
       "unit": "hPa",
       "tone": "neutral"
     },
     {
       "label": "Cloud",
-      "value": 100,
+      "value": 18,
       "unit": "%",
       "tone": "neutral"
     },
@@ -81,9 +81,9 @@
       "humidity": 37,
       "wind": 12,
       "uv": 5.5,
-      "code": 3,
-      "condition": "Overcast",
-      "family": "Clouds",
+      "code": 0,
+      "condition": "Clear sky",
+      "family": "Clear",
       "isDay": true
     },
     {
@@ -107,9 +107,9 @@
       "humidity": 30,
       "wind": 15,
       "uv": 3.8,
-      "code": 3,
-      "condition": "Overcast",
-      "family": "Clouds",
+      "code": 1,
+      "condition": "Mainly clear",
+      "family": "Clear",
       "isDay": true
     },
     {
@@ -120,9 +120,9 @@
       "humidity": 34,
       "wind": 12,
       "uv": 2,
-      "code": 3,
-      "condition": "Overcast",
-      "family": "Clouds",
+      "code": 51,
+      "condition": "Light drizzle",
+      "family": "Drizzle",
       "isDay": true
     },
     {
@@ -133,8 +133,8 @@
       "humidity": 31,
       "wind": 14,
       "uv": 1.4,
-      "code": 3,
-      "condition": "Overcast",
+      "code": 2,
+      "condition": "Partly cloudy",
       "family": "Clouds",
       "isDay": true
     },
@@ -146,9 +146,9 @@
       "humidity": 32,
       "wind": 14,
       "uv": 0.7,
-      "code": 3,
-      "condition": "Overcast",
-      "family": "Clouds",
+      "code": 0,
+      "condition": "Clear sky",
+      "family": "Clear",
       "isDay": true
     },
     {
@@ -172,9 +172,9 @@
       "humidity": 35,
       "wind": 16,
       "uv": 0,
-      "code": 3,
-      "condition": "Overcast",
-      "family": "Clouds",
+      "code": 1,
+      "condition": "Mainly clear",
+      "family": "Clear",
       "isDay": true
     },
     {
@@ -185,9 +185,9 @@
       "humidity": 37,
       "wind": 14,
       "uv": 0,
-      "code": 3,
-      "condition": "Overcast",
-      "family": "Clouds",
+      "code": 0,
+      "condition": "Clear sky",
+      "family": "Clear",
       "isDay": true
     },
     {
@@ -390,8 +390,8 @@
     {
       "date": "2026-05-28",
       "day": "Today",
-      "condition": "Overcast",
-      "family": "Clouds",
+      "condition": "Light drizzle",
+      "family": "Drizzle",
       "high": 31.2,
       "low": 15.7,
       "rainChance": 10,
@@ -425,7 +425,7 @@
     }
   ],
   "facts": [
-    "Now: overcast with 100% cloud cover over London.",
+    "Now: clear sky with 18% cloud cover over London.",
     "Rain probability stays below 30% through the next 24 hours.",
     "Daylight window today: 04:52 - 21:03.",
     "Peak forecast wind in the next 24 hours: 16 km/h around 19:00.",
