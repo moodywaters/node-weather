@@ -2,20 +2,20 @@
   "status": "ok",
   "title": "IGEL Now and Next Workspace and Security Summit",
   "location": "London, UK",
-  "generatedAt": "2026-05-29T19:12:25.836Z",
-  "updatedLabel": "20:12:25",
+  "generatedAt": "2026-05-29T19:17:25.834Z",
+  "updatedLabel": "20:17:25",
   "source": "Open-Meteo",
   "current": {
     "condition": "Clear sky",
     "family": "Clear",
     "mood": "calm",
     "code": 0,
-    "temp": 24.6,
-    "feels": 22.5,
-    "humidity": 33,
-    "wind": 10,
+    "temp": 24.4,
+    "feels": 22.4,
+    "humidity": 34,
+    "wind": 9,
     "windDirection": "WNW",
-    "gusts": 23,
+    "gusts": 22,
     "pressure": 1022,
     "rain": 0,
     "cloud": 0,
@@ -25,25 +25,25 @@
   "metrics": [
     {
       "label": "Feels like",
-      "value": 22.5,
+      "value": 22.4,
       "unit": "°C",
       "tone": "yellow"
     },
     {
       "label": "Humidity",
-      "value": 33,
+      "value": 34,
       "unit": "%",
       "tone": "neutral"
     },
     {
       "label": "Wind",
-      "value": 10,
+      "value": 9,
       "unit": "km/h WNW",
       "tone": "blue"
     },
     {
       "label": "Gusts",
-      "value": 23,
+      "value": 22,
       "unit": "km/h",
       "tone": "neutral"
     },
