@@ -2,48 +2,48 @@
   "status": "ok",
   "title": "IGEL Now and Next Workspace and Security Summit",
   "location": "London, UK",
-  "generatedAt": "2026-05-29T11:42:25.316Z",
-  "updatedLabel": "12:42:25",
+  "generatedAt": "2026-05-29T11:47:25.308Z",
+  "updatedLabel": "12:47:25",
   "source": "Open-Meteo",
   "current": {
     "condition": "Overcast",
     "family": "Clouds",
     "mood": "settled",
     "code": 3,
-    "temp": 23.5,
-    "feels": 22.9,
-    "humidity": 42,
-    "wind": 11,
+    "temp": 24,
+    "feels": 23.3,
+    "humidity": 40,
+    "wind": 12,
     "windDirection": "WNW",
-    "gusts": 26,
-    "pressure": 1023,
+    "gusts": 27,
+    "pressure": 1022,
     "rain": 0,
     "cloud": 100,
-    "uv": 4.8,
+    "uv": 4.3,
     "isDay": true
   },
   "metrics": [
     {
       "label": "Feels like",
-      "value": 22.9,
+      "value": 23.3,
       "unit": "°C",
       "tone": "yellow"
     },
     {
       "label": "Humidity",
-      "value": 42,
+      "value": 40,
       "unit": "%",
       "tone": "neutral"
     },
     {
       "label": "Wind",
-      "value": 11,
+      "value": 12,
       "unit": "km/h WNW",
       "tone": "blue"
     },
     {
       "label": "Gusts",
-      "value": 26,
+      "value": 27,
       "unit": "km/h",
       "tone": "neutral"
     },
@@ -55,7 +55,7 @@
     },
     {
       "label": "Pressure",
-      "value": 1023,
+      "value": 1022,
       "unit": "hPa",
       "tone": "neutral"
     },
@@ -67,25 +67,12 @@
     },
     {
       "label": "UV index",
-      "value": 4.8,
+      "value": 4.3,
       "unit": "",
       "tone": "yellow"
     }
   ],
   "hourly": [
-    {
-      "time": "2026-05-29T12:00",
-      "label": "12:00",
-      "temp": 22.7,
-      "rainChance": 5,
-      "humidity": 46,
-      "wind": 10,
-      "uv": 4.8,
-      "code": 3,
-      "condition": "Overcast",
-      "family": "Clouds",
-      "isDay": true
-    },
     {
       "time": "2026-05-29T13:00",
       "label": "13:00",
@@ -380,6 +367,19 @@
       "humidity": 45,
       "wind": 5,
       "uv": 4.5,
+      "code": 0,
+      "condition": "Clear sky",
+      "family": "Clear",
+      "isDay": true
+    },
+    {
+      "time": "2026-05-30T12:00",
+      "label": "12:00",
+      "temp": 23.8,
+      "rainChance": 0,
+      "humidity": 39,
+      "wind": 5,
+      "uv": 5.4,
       "code": 0,
       "condition": "Clear sky",
       "family": "Clear",
