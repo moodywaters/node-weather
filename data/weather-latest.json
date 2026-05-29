@@ -2,30 +2,30 @@
   "status": "ok",
   "title": "IGEL Now and Next Workspace and Security Summit",
   "location": "London, UK",
-  "generatedAt": "2026-05-29T17:42:25.681Z",
-  "updatedLabel": "18:42:25",
+  "generatedAt": "2026-05-29T17:47:25.693Z",
+  "updatedLabel": "18:47:25",
   "source": "Open-Meteo",
   "current": {
     "condition": "Clear sky",
     "family": "Clear",
     "mood": "calm",
     "code": 0,
-    "temp": 25.9,
-    "feels": 23,
+    "temp": 25.7,
+    "feels": 22.7,
     "humidity": 27,
-    "wind": 13,
+    "wind": 12,
     "windDirection": "WNW",
-    "gusts": 30,
+    "gusts": 29,
     "pressure": 1022,
     "rain": 0,
     "cloud": 0,
-    "uv": 0.7,
+    "uv": 0.2,
     "isDay": true
   },
   "metrics": [
     {
       "label": "Feels like",
-      "value": 23,
+      "value": 22.7,
       "unit": "°C",
       "tone": "yellow"
     },
@@ -37,13 +37,13 @@
     },
     {
       "label": "Wind",
-      "value": 13,
+      "value": 12,
       "unit": "km/h WNW",
       "tone": "blue"
     },
     {
       "label": "Gusts",
-      "value": 30,
+      "value": 29,
       "unit": "km/h",
       "tone": "neutral"
     },
@@ -67,25 +67,12 @@
     },
     {
       "label": "UV index",
-      "value": 0.7,
+      "value": 0.2,
       "unit": "",
       "tone": "yellow"
     }
   ],
   "hourly": [
-    {
-      "time": "2026-05-29T18:00",
-      "label": "18:00",
-      "temp": 26.2,
-      "rainChance": 2,
-      "humidity": 28,
-      "wind": 13,
-      "uv": 0.7,
-      "code": 0,
-      "condition": "Clear sky",
-      "family": "Clear",
-      "isDay": true
-    },
     {
       "time": "2026-05-29T19:00",
       "label": "19:00",
@@ -383,6 +370,19 @@
       "code": 3,
       "condition": "Overcast",
       "family": "Clouds",
+      "isDay": true
+    },
+    {
+      "time": "2026-05-30T18:00",
+      "label": "18:00",
+      "temp": 26.6,
+      "rainChance": 1,
+      "humidity": 40,
+      "wind": 14,
+      "uv": 0.7,
+      "code": 1,
+      "condition": "Mainly clear",
+      "family": "Clear",
       "isDay": true
     }
   ],
