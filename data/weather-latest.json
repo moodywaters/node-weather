@@ -2,36 +2,36 @@
   "status": "ok",
   "title": "IGEL Now and Next Workspace and Security Summit",
   "location": "London, UK",
-  "generatedAt": "2026-05-29T09:42:25.070Z",
-  "updatedLabel": "10:42:25",
+  "generatedAt": "2026-05-29T09:47:25.083Z",
+  "updatedLabel": "10:47:25",
   "source": "Open-Meteo",
   "current": {
     "condition": "Overcast",
     "family": "Clouds",
     "mood": "settled",
     "code": 3,
-    "temp": 21,
-    "feels": 19.8,
-    "humidity": 52,
+    "temp": 21.3,
+    "feels": 20.1,
+    "humidity": 51,
     "wind": 10,
     "windDirection": "WNW",
-    "gusts": 24,
+    "gusts": 25,
     "pressure": 1023,
     "rain": 0,
     "cloud": 100,
-    "uv": 2.8,
+    "uv": 3.7,
     "isDay": true
   },
   "metrics": [
     {
       "label": "Feels like",
-      "value": 19.8,
+      "value": 20.1,
       "unit": "°C",
       "tone": "yellow"
     },
     {
       "label": "Humidity",
-      "value": 52,
+      "value": 51,
       "unit": "%",
       "tone": "neutral"
     },
@@ -43,7 +43,7 @@
     },
     {
       "label": "Gusts",
-      "value": 24,
+      "value": 25,
       "unit": "km/h",
       "tone": "neutral"
     },
@@ -67,25 +67,12 @@
     },
     {
       "label": "UV index",
-      "value": 2.8,
+      "value": 3.7,
       "unit": "",
       "tone": "yellow"
     }
   ],
   "hourly": [
-    {
-      "time": "2026-05-29T10:00",
-      "label": "10:00",
-      "temp": 20.5,
-      "rainChance": 18,
-      "humidity": 54,
-      "wind": 9,
-      "uv": 2.8,
-      "code": 3,
-      "condition": "Overcast",
-      "family": "Clouds",
-      "isDay": true
-    },
     {
       "time": "2026-05-29T11:00",
       "label": "11:00",
@@ -380,6 +367,19 @@
       "humidity": 50,
       "wind": 11,
       "uv": 2,
+      "code": 0,
+      "condition": "Clear sky",
+      "family": "Clear",
+      "isDay": true
+    },
+    {
+      "time": "2026-05-30T10:00",
+      "label": "10:00",
+      "temp": 22.1,
+      "rainChance": 0,
+      "humidity": 46,
+      "wind": 9,
+      "uv": 3.3,
       "code": 0,
       "condition": "Clear sky",
       "family": "Clear",
