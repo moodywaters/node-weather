@@ -2,48 +2,48 @@
   "status": "ok",
   "title": "IGEL Now and Next Workspace and Security Summit",
   "location": "London, UK",
-  "generatedAt": "2026-05-29T14:42:25.506Z",
-  "updatedLabel": "15:42:25",
+  "generatedAt": "2026-05-29T14:47:25.521Z",
+  "updatedLabel": "15:47:25",
   "source": "Open-Meteo",
   "current": {
     "condition": "Light drizzle",
     "family": "Drizzle",
     "mood": "wet",
     "code": 51,
-    "temp": 25.6,
-    "feels": 23.7,
-    "humidity": 33,
+    "temp": 25.3,
+    "feels": 23.8,
+    "humidity": 36,
     "wind": 9,
-    "windDirection": "WSW",
-    "gusts": 23,
+    "windDirection": "SW",
+    "gusts": 21,
     "pressure": 1022,
     "rain": 0.1,
     "cloud": 100,
-    "uv": 2.8,
+    "uv": 1.7,
     "isDay": true
   },
   "metrics": [
     {
       "label": "Feels like",
-      "value": 23.7,
+      "value": 23.8,
       "unit": "°C",
       "tone": "yellow"
     },
     {
       "label": "Humidity",
-      "value": 33,
+      "value": 36,
       "unit": "%",
       "tone": "neutral"
     },
     {
       "label": "Wind",
       "value": 9,
-      "unit": "km/h WSW",
+      "unit": "km/h SW",
       "tone": "blue"
     },
     {
       "label": "Gusts",
-      "value": 23,
+      "value": 21,
       "unit": "km/h",
       "tone": "neutral"
     },
@@ -67,25 +67,12 @@
     },
     {
       "label": "UV index",
-      "value": 2.8,
+      "value": 1.7,
       "unit": "",
       "tone": "yellow"
     }
   ],
   "hourly": [
-    {
-      "time": "2026-05-29T15:00",
-      "label": "15:00",
-      "temp": 25.8,
-      "rainChance": 5,
-      "humidity": 30,
-      "wind": 10,
-      "uv": 2.8,
-      "code": 3,
-      "condition": "Overcast",
-      "family": "Clouds",
-      "isDay": true
-    },
     {
       "time": "2026-05-29T16:00",
       "label": "16:00",
@@ -384,6 +371,19 @@
       "condition": "Clear sky",
       "family": "Clear",
       "isDay": true
+    },
+    {
+      "time": "2026-05-30T15:00",
+      "label": "15:00",
+      "temp": 27.2,
+      "rainChance": 0,
+      "humidity": 30,
+      "wind": 8,
+      "uv": 4,
+      "code": 3,
+      "condition": "Overcast",
+      "family": "Clouds",
+      "isDay": true
     }
   ],
   "daily": [
@@ -429,7 +429,7 @@
     "Rain probability stays below 30% through the next 24 hours.",
     "Daylight window today: 04:51 - 21:04.",
     "Peak forecast wind in the next 24 hours: 14 km/h around 17:00.",
-    "Temperature range ahead: 17.3-26.1°C across the next 24 hours.",
+    "Temperature range ahead: 17.3-27.2°C across the next 24 hours.",
     "Comfortable event travel window"
   ],
   "summary": "Comfortable event travel window"
