@@ -2,20 +2,20 @@
   "status": "ok",
   "title": "IGEL Now and Next Workspace and Security Summit",
   "location": "London, UK",
-  "generatedAt": "2026-05-29T12:57:25.402Z",
-  "updatedLabel": "13:57:25",
+  "generatedAt": "2026-05-29T13:02:25.415Z",
+  "updatedLabel": "14:02:25",
   "source": "Open-Meteo",
   "current": {
     "condition": "Overcast",
     "family": "Clouds",
     "mood": "settled",
     "code": 3,
-    "temp": 24.6,
-    "feels": 24.2,
-    "humidity": 36,
+    "temp": 24.8,
+    "feels": 23.7,
+    "humidity": 35,
     "wind": 8,
     "windDirection": "W",
-    "gusts": 22,
+    "gusts": 21,
     "pressure": 1023,
     "rain": 0,
     "cloud": 100,
@@ -25,13 +25,13 @@
   "metrics": [
     {
       "label": "Feels like",
-      "value": 24.2,
+      "value": 23.7,
       "unit": "°C",
       "tone": "yellow"
     },
     {
       "label": "Humidity",
-      "value": 36,
+      "value": 35,
       "unit": "%",
       "tone": "neutral"
     },
@@ -43,7 +43,7 @@
     },
     {
       "label": "Gusts",
-      "value": 22,
+      "value": 21,
       "unit": "km/h",
       "tone": "neutral"
     },
@@ -430,7 +430,7 @@
     "Daylight window today: 04:51 - 21:04.",
     "Peak forecast wind in the next 24 hours: 14 km/h around 17:00.",
     "Temperature range ahead: 17.3-25.8°C across the next 24 hours.",
-    "Keep an eye on the next refresh"
+    "Comfortable event travel window"
   ],
-  "summary": "Keep an eye on the next refresh"
+  "summary": "Comfortable event travel window"
 }
