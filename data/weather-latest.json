@@ -2,36 +2,36 @@
   "status": "ok",
   "title": "IGEL Now and Next Workspace and Security Summit",
   "location": "London, UK",
-  "generatedAt": "2026-05-29T08:42:24.927Z",
-  "updatedLabel": "09:42:24",
+  "generatedAt": "2026-05-29T08:47:24.950Z",
+  "updatedLabel": "09:47:24",
   "source": "Open-Meteo",
   "current": {
     "condition": "Overcast",
     "family": "Clouds",
     "mood": "settled",
     "code": 3,
-    "temp": 19.8,
-    "feels": 19,
-    "humidity": 57,
+    "temp": 20,
+    "feels": 19.1,
+    "humidity": 55,
     "wind": 9,
     "windDirection": "NW",
     "gusts": 22,
     "pressure": 1022,
     "rain": 0,
     "cloud": 100,
-    "uv": 1.8,
+    "uv": 3.2,
     "isDay": true
   },
   "metrics": [
     {
       "label": "Feels like",
-      "value": 19,
+      "value": 19.1,
       "unit": "°C",
       "tone": "yellow"
     },
     {
       "label": "Humidity",
-      "value": 57,
+      "value": 55,
       "unit": "%",
       "tone": "neutral"
     },
@@ -67,25 +67,12 @@
     },
     {
       "label": "UV index",
-      "value": 1.8,
+      "value": 3.2,
       "unit": "",
       "tone": "yellow"
     }
   ],
   "hourly": [
-    {
-      "time": "2026-05-29T09:00",
-      "label": "09:00",
-      "temp": 19.4,
-      "rainChance": 18,
-      "humidity": 60,
-      "wind": 9,
-      "uv": 1.8,
-      "code": 3,
-      "condition": "Overcast",
-      "family": "Clouds",
-      "isDay": true
-    },
     {
       "time": "2026-05-29T10:00",
       "label": "10:00",
@@ -380,6 +367,19 @@
       "humidity": 57,
       "wind": 8,
       "uv": 0.9,
+      "code": 0,
+      "condition": "Clear sky",
+      "family": "Clear",
+      "isDay": true
+    },
+    {
+      "time": "2026-05-30T09:00",
+      "label": "09:00",
+      "temp": 20.2,
+      "rainChance": 0,
+      "humidity": 54,
+      "wind": 8,
+      "uv": 2,
       "code": 0,
       "condition": "Clear sky",
       "family": "Clear",
